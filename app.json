@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/harigih/HBMSfilterbotv33",
-    "repository": "https://github.com/harigih/HBMSfilterbotv33",
+    "website": "https://github.com/harigih/THANOS-V2",
+    "repository": "https://github.com/harigih/THANOS-V2",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
